@@ -19,6 +19,8 @@ This project aims to classify images of animals—cats, dogs, and snakes—using
 - Custom CNN Model Accuracy: 70%
 - InceptionV3 Pre-trained Model Accuracy: 97%
 
+![Image Prediction](output.png)
+
 # 📂 Dataset Structure
 ```
 dataset/
